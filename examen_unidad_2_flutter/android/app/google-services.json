@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823501592596",
+    "project_id": "cloud-msg-dcf03",
+    "storage_bucket": "cloud-msg-dcf03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823501592596:android:6f3cd73f3befa56b11ef01",
+        "android_client_info": {
+          "package_name": "com.example.actividad_notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOjTOty9ZlHC4YG47PxAPB8MaX0c317Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823501592596:android:2efa49cda669675011ef01",
+        "android_client_info": {
+          "package_name": "com.example.examen_flutter_u2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOjTOty9ZlHC4YG47PxAPB8MaX0c317Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
